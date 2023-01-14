@@ -11,4 +11,6 @@ This is the link toward the kaggle project: https://www.kaggle.com/competitions/
 
 It was a kaggle project for my course ( Foundation of machine learning: map553 )
 
+my team is "Team FS" we are 7th
+
 
